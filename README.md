@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Omveer Singh 👋
 
-<!--
-**omveer7850/omveer7850** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech ECE @ BIT Mesra (2028)
 
-Here are some ideas to get you started:
+💻 Java Developer | DSA Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 800+ LeetCode Problems Solved
+
+🤖 Interested in Machine Learning and Software Development
+
+## Profiles
+- LeetCode: https://leetcode.com/u/omveer_01/
+- LinkedIn: https://linkedin.com/in/omveer-singh-shekhawat
+
+## Current Focus
+- Data Structures & Algorithms
+- Machine Learning
+- Software Development
+
