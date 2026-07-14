@@ -3,219 +3,179 @@
   GITHUB PROFILE README — omveer7850
   ------------------------------------------------------------
   HOW TO CUSTOMIZE:
-  1. Replace "omveer7850" with your GitHub username wherever it appears
-     (needed for the stats/streak/trophy widgets to work).
-  2. Update the LeetCode, LinkedIn, and GeeksforGeeks links in the
-     "Connect With Me" section if they ever change.
-  3. Edit the tech-stack badges by adding/removing lines from each block.
+  1. Replace "omveer7850" with your GitHub username everywhere
+     (required for the stat widgets to pull your real data).
+  2. Update LeetCode / LinkedIn / GeeksforGeeks links in the
+     "Connect" card if they ever change.
+  3. Edit the skillicons.dev URL in "Tech Stack" to add/remove
+     icons — full icon list: https://skillicons.dev
   ============================================================
 -->
 
 <div align="center">
 
-<!-- ===================== HERO SECTION ===================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=190&section=header&text=Omveer%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20ML%20Explorer&descAlignY=55&descSize=17" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Omveer+%F0%9F%91%8B;ECE+Undergrad+%40+BIT+Mesra+(2028);Java+Developer+%7C+DSA+Enthusiast;800%2B+Problems+Solved+on+LeetCode;Exploring+Machine+Learning+%26+Software+Dev" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=140&text=OMVEER%20SINGH&fontSize=38&fontColor=E2E8F0&fontAlign=50&fontAlignY=40&desc=Java%20Developer%20%C2%B7%20DSA%20Enthusiast%20%C2%B7%20ML%20Explorer&descAlign=50&descAlignY=68&descSize=15" width="100%"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-4F46E5?style=for-the-badge&labelColor=1a1b27" alt="status"/>
-<img src="https://img.shields.io/badge/Branch-ECE-06B6D4?style=for-the-badge&labelColor=1a1b27" alt="branch"/>
-<img src="https://img.shields.io/badge/College-BIT%20Mesra-8B5CF6?style=for-the-badge&labelColor=1a1b27" alt="college"/>
-<img src="https://img.shields.io/badge/Passout-2028-EC4899?style=for-the-badge&labelColor=1a1b27" alt="passout"/>
+<img src="https://img.shields.io/badge/ECE-BIT%20Mesra-6366F1?style=flat-square&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Batch-2028-06B6D4?style=flat-square&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Focus-Java%20%7C%20DSA%20%7C%20ML-8B5CF6?style=flat-square&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/LeetCode-800%2B%20Solved-F59E0B?style=flat-square&labelColor=0F172A"/>
 
 </div>
 
 <br/>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<!-- ===================== OVERVIEW DASHBOARD ===================== -->
 
-<!-- ===================== ABOUT ME ===================== -->
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
-## 🧭 About Me
+### 🧭 Overview
 
-<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
+I'm an ECE undergraduate at **BIT Mesra** (2028) who spends most of the free time inside a code editor — building things in **Java** and grinding through **Data Structures & Algorithms**. Currently branching out into **Machine Learning** to pair algorithmic thinking with applied software development.
 
-- 🎓 Studying **Electronics & Communication Engineering (ECE)** at **BIT Mesra** — Class of **2028**
-- 💻 Primary language: **Java** — focused on writing clean, efficient, and scalable code
-- 🧩 Solved **800+ DSA problems**, building strong problem-solving and algorithmic foundations
-- 🤖 Currently exploring **Machine Learning** alongside core software development
-- 🌱 Learning: **Advanced DSA, ML fundamentals, and real-world software engineering practices**
-- 🤝 Open to collaborating on: **DSA projects, ML mini-projects, and Java-based software builds**
-- ⚡ Fun fact: **I like breaking down hard problems until the solution feels obvious**
+**Currently exploring**
+`Advanced DSA` · `Machine Learning fundamentals` · `Software Engineering practices`
 
-<br clear="right"/>
+**Open to collaborate on**
+`DSA-based projects` · `ML mini-projects` · `Java / software builds`
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+</td>
+<td width="45%" valign="top">
+
+### 📌 Quick Facts
+
+| | |
+|---|---|
+| 🎓 **Education** | B.Tech ECE, BIT Mesra |
+| 📅 **Graduating** | 2028 |
+| 💻 **Primary Stack** | Java |
+| 🧩 **DSA** | 800+ problems solved |
+| 🤖 **Currently Learning** | Machine Learning |
+| 📍 **Status** | Open to opportunities |
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <!-- ===================== TECH STACK ===================== -->
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<br/><br/>
-
-**Frontend**
-<br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-<br/><br/>
-
-**Backend**
-<br/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
-<br/><br/>
-
-**Database**
-<br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-<br/><br/>
-
-**AI / ML**
-<br/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<br/><br/>
-
-**Tools & DevOps**
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-</div>
-
-<br/>
-
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-<!-- ===================== GITHUB STATS ===================== -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=omveer7850&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omveer7850&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=omveer7850&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omveer7850&theme=tokyo-night&hide_border=true" width="100%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=omveer7850&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
-
-</div>
-
-<br/>
-
-<!-- ===================== SNAKE ANIMATION ===================== -->
-<!-- Classic animated contribution snake. To enable it on your own repo:
-     1. Add the workflow from https://github.com/Platane/snk to your profile repo
-     2. It will auto-generate github-contribution-grid-snake.svg
-     3. Uncomment the line below once the file exists -->
-<!--
-<div align="center">
-  <img src="https://raw.githubusercontent.com/omveer7850/omveer7850/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-<br/>
--->
-
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-<!-- ===================== ACHIEVEMENTS ===================== -->
-
-## 🎖️ Achievements
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="200">🏆<br/><b>800+ LeetCode</b><br/><sub>Problems Solved</sub></td>
-    <td align="center" width="200">🎯<br/><b>DSA Enthusiast</b><br/><sub>Strong Problem Solving</sub></td>
-    <td align="center" width="200">💻<br/><b>Java Developer</b><br/><sub>Core & Applied Java</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="200">🎓<br/><b>BIT Mesra</b><br/><sub>ECE, Batch of 2028</sub></td>
-    <td align="center" width="200">🤖<br/><b>Learning ML</b><br/><sub>Applied Machine Learning</sub></td>
-    <td align="center" width="200">🚀<br/><b>Building Projects</b><br/><sub>Software Development</sub></td>
-  </tr>
+<table width="100%">
+<tr>
+<td align="center" width="16%"><b>Languages</b><br/><br/><img src="https://skillicons.dev/icons?i=java,cpp,py,js"/></td>
+<td align="center" width="16%"><b>Frontend</b><br/><br/><img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/></td>
+<td align="center" width="16%"><b>Backend</b><br/><br/><img src="https://skillicons.dev/icons?i=spring,nodejs,express"/></td>
+<td align="center" width="16%"><b>Database</b><br/><br/><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/></td>
+<td align="center" width="18%"><b>AI / ML</b><br/><br/><img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn"/></td>
+<td align="center" width="18%"><b>Tools & DevOps</b><br/><br/><img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker"/></td>
+</tr>
 </table>
 
+<br/>
+
+<!-- ===================== GITHUB DASHBOARD ===================== -->
+
+### 📊 GitHub Dashboard
+
+<table width="100%">
+<tr>
+<td width="50%"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=omveer7850&show_icons=true&theme=dark&hide_border=true&bg_color=0F172A&title_color=6366F1&icon_color=06B6D4&text_color=E2E8F0"/></td>
+<td width="50%"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omveer7850&layout=compact&theme=dark&hide_border=true&bg_color=0F172A&title_color=6366F1&text_color=E2E8F0"/></td>
+</tr>
+<tr>
+<td colspan="2"><img width="100%" src="https://streak-stats.demolab.com?user=omveer7850&theme=dark&hide_border=true&background=0F172A&ring=6366F1&fire=06B6D4&currStreakLabel=E2E8F0"/></td>
+</tr>
+<tr>
+<td colspan="2"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=omveer7850&bg_color=0F172A&color=E2E8F0&line=6366F1&point=06B6D4&hide_border=true"/></td>
+</tr>
+</table>
+
+<br/>
+
+### 🏆 Trophy Case
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=omveer7850&theme=darkhub&no-frame=true&row=1&column=7&margin-w=6"/>
 </div>
 
 <br/>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<!-- ===================== ACHIEVEMENT CARDS ===================== -->
 
-<!-- ===================== CONNECT WITH ME ===================== -->
+### 🎖️ Achievements
 
-## 🤝 Connect With Me
+<table width="100%">
+<tr>
+<td align="center" width="25%">
 
-<div align="center">
+**🏆 800+**
+<br/>LeetCode Problems
 
-<a href="https://linkedin.com/in/omveer-singh-shekhawat" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/omveer_01/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-<a href="https://www.geeksforgeeks.org/profile/o7083qgxu" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
+</td>
+<td align="center" width="25%">
 
-</div>
+**🧩 DSA**
+<br/>Enthusiast
+
+</td>
+<td align="center" width="25%">
+
+**☕ Java**
+<br/>Developer
+
+</td>
+<td align="center" width="25%">
+
+**🎓 BIT Mesra**
+<br/>ECE · 2028
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<!-- ===================== CONNECT ===================== -->
 
-<!-- ===================== QUOTE SECTION ===================== -->
+### 🔗 Connect
 
-<div align="center">
+<table width="100%">
+<tr>
+<td align="center" width="33%">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
+**LinkedIn**
+<br/>
+[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/omveer-singh-shekhawat)
 
-</div>
+</td>
+<td align="center" width="33%">
+
+**LeetCode**
+<br/>
+[![LeetCode](https://img.shields.io/badge/Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/omveer_01/)
+
+</td>
+<td align="center" width="33%">
+
+**GeeksforGeeks**
+<br/>
+[![GFG](https://img.shields.io/badge/Profile-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/o7083qgxu)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<!-- ===================== FOOTER ===================== -->
-
 <div align="center">
 
-### Thanks for stopping by! 🚀
-
-*Always open to connecting with fellow developers, collaborating on interesting projects, or discussing DSA and Machine Learning.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=110&section=footer" width="100%"/>
+<sub>Thanks for visiting my profile — always open to connecting on DSA, ML, or software projects.</sub>
 
 </div>
