@@ -3,13 +3,11 @@
   GITHUB PROFILE README — omveer7850
   ------------------------------------------------------------
   HOW TO CUSTOMIZE:
-  1. Replace "omveer7850" with your GitHub username wherever it appears.
-  2. Replace LeetCode / LinkedIn / Codeforces / AtCoder / CodeChef links
-     in the "Competitive Programming" and "Connect With Me" sections.
-  3. Swap the tech-stack badges by adding/removing lines from the
-     shields.io blocks (each badge is on its own line for easy editing).
-  4. All stat widgets pull live from your GitHub username automatically —
-     no manual updates needed once the username is correct.
+  1. Replace "omveer7850" with your GitHub username wherever it appears
+     (needed for the stats/streak/trophy widgets to work).
+  2. Update the LeetCode, LinkedIn, and GeeksforGeeks links in the
+     "Connect With Me" section if they ever change.
+  3. Edit the tech-stack badges by adding/removing lines from each block.
   ============================================================
 -->
 
@@ -17,20 +15,18 @@
 
 <!-- ===================== HERO SECTION ===================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Omveer%20Singh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20ML%20Explorer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=190&section=header&text=Omveer%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20ML%20Explorer&descAlignY=55&descSize=17" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Omveer+%F0%9F%91%8B;ECE+Undergrad+%40+BIT+Mesra+(2028);Java+Developer+%7C+DSA+Enthusiast;800%2B+Problems+Solved+on+LeetCode;Exploring+Machine+Learning+%26+Software+Dev" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Omveer+%F0%9F%91%8B;B.Tech+ECE+%40+BIT+Mesra+%7C+Class+of+2028;Java+Developer+%7C+DSA+Enthusiast;800%2B+LeetCode+Problems+Solved;Exploring+Machine+Learning+%26+Software+Dev" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<!-- Status Badges -->
-<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-06B6D4?style=for-the-badge&labelColor=1a1b27" alt="status"/>
-<img src="https://img.shields.io/badge/Focus-DSA%20%7C%20ML%20%7C%20Software%20Dev-6366F1?style=for-the-badge&labelColor=1a1b27" alt="focus"/>
-<img src="https://img.shields.io/badge/Location-BIT%20Mesra%2C%20India-8B5CF6?style=for-the-badge&labelColor=1a1b27" alt="location"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-4F46E5?style=for-the-badge&labelColor=1a1b27" alt="status"/>
+<img src="https://img.shields.io/badge/Branch-ECE-06B6D4?style=for-the-badge&labelColor=1a1b27" alt="branch"/>
+<img src="https://img.shields.io/badge/College-BIT%20Mesra-8B5CF6?style=for-the-badge&labelColor=1a1b27" alt="college"/>
+<img src="https://img.shields.io/badge/Passout-2028-EC4899?style=for-the-badge&labelColor=1a1b27" alt="passout"/>
 
 </div>
 
@@ -42,17 +38,15 @@
 
 ## 🧭 About Me
 
-<img align="right" width="290" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
+<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
 
-- 🎓 Pursuing **B.Tech in Electronics & Communication Engineering** at **BIT Mesra**, Class of **2028**
-- 💻 Primary language: **Java** — building strong fundamentals in software engineering
-- 🧩 Solved **800+ problems** across DSA platforms, sharpening problem-solving and algorithmic thinking
-- 🤖 Currently exploring **Machine Learning** and applying it alongside software development
-- 🔭 Working on strengthening core **Data Structures & Algorithms** and real-world software projects
-- 🌱 Learning: **Advanced DSA, Machine Learning fundamentals, and modern software development practices**
-- 🤝 Looking to collaborate on: **DSA-based projects, ML mini-projects, and open-source Java/Software projects**
-- ⚡ Fun fact: **I enjoy turning tricky algorithmic problems into clean, optimized code**
-- 📫 Reach me via the links in the **Connect With Me** section below
+- 🎓 Studying **Electronics & Communication Engineering (ECE)** at **BIT Mesra** — Class of **2028**
+- 💻 Primary language: **Java** — focused on writing clean, efficient, and scalable code
+- 🧩 Solved **800+ DSA problems**, building strong problem-solving and algorithmic foundations
+- 🤖 Currently exploring **Machine Learning** alongside core software development
+- 🌱 Learning: **Advanced DSA, ML fundamentals, and real-world software engineering practices**
+- 🤝 Open to collaborating on: **DSA projects, ML mini-projects, and Java-based software builds**
+- ⚡ Fun fact: **I like breaking down hard problems until the solution feels obvious**
 
 <br clear="right"/>
 
@@ -69,7 +63,6 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 <br/><br/>
@@ -79,7 +72,6 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
 <br/><br/>
 
@@ -87,7 +79,6 @@
 <br/>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 <br/><br/>
@@ -96,7 +87,6 @@
 <br/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 <br/><br/>
 
@@ -105,54 +95,16 @@
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
 <br/><br/>
 
-**Tools**
+**Tools & DevOps**
 <br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
-<br/><br/>
-
-**DevOps**
-<br/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-
-</div>
-
-<br/>
-
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-<!-- ============== COMPETITIVE PROGRAMMING ============== -->
-
-## 🏆 Competitive Programming
-
-<div align="center">
-
-<!-- Replace the hrefs below with your actual profile links -->
-<a href="https://leetcode.com/u/omveer_01/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-800%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-<a href="https://codeforces.com/profile/omveer7850" target="_blank">
-  <!-- placeholder — replace with your actual Codeforces handle -->
-  <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-<a href="https://atcoder.jp/users/omveer7850" target="_blank">
-  <!-- placeholder — replace with your actual AtCoder handle -->
-  <img src="https://img.shields.io/badge/AtCoder-Profile-222222?style=for-the-badge&logo=atcoder&logoColor=white"/>
-</a>
-<a href="https://www.codechef.com/users/omveer7850" target="_blank">
-  <!-- placeholder — replace with your actual CodeChef handle -->
-  <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
 
 </div>
 
@@ -179,15 +131,23 @@
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omveer7850&theme=tokyonight" width="45%"/>
-
-<br/><br/>
-
 <img src="https://github-profile-trophy.vercel.app/?username=omveer7850&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
 
 </div>
 
 <br/>
+
+<!-- ===================== SNAKE ANIMATION ===================== -->
+<!-- Classic animated contribution snake. To enable it on your own repo:
+     1. Add the workflow from https://github.com/Platane/snk to your profile repo
+     2. It will auto-generate github-contribution-grid-snake.svg
+     3. Uncomment the line below once the file exists -->
+<!--
+<div align="center">
+  <img src="https://raw.githubusercontent.com/omveer7850/omveer7850/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+<br/>
+-->
 
 ![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
@@ -199,38 +159,14 @@
 
 <table>
   <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/-🏆-06B6D4?style=for-the-badge" /><br/>
-      <b>800+ LeetCode</b><br/>
-      <sub>Problems Solved</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/-🎯-6366F1?style=for-the-badge" /><br/>
-      <b>DSA Enthusiast</b><br/>
-      <sub>Strong Problem Solving</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/-💻-8B5CF6?style=for-the-badge" /><br/>
-      <b>Java Developer</b><br/>
-      <sub>Core & Applied Java</sub>
-    </td>
+    <td align="center" width="200">🏆<br/><b>800+ LeetCode</b><br/><sub>Problems Solved</sub></td>
+    <td align="center" width="200">🎯<br/><b>DSA Enthusiast</b><br/><sub>Strong Problem Solving</sub></td>
+    <td align="center" width="200">💻<br/><b>Java Developer</b><br/><sub>Core & Applied Java</sub></td>
   </tr>
   <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/-🎓-06B6D4?style=for-the-badge" /><br/>
-      <b>BIT Mesra</b><br/>
-      <sub>B.Tech ECE, 2028</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/-🤖-6366F1?style=for-the-badge" /><br/>
-      <b>Learning ML</b><br/>
-      <sub>Applied Machine Learning</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/-🚀-8B5CF6?style=for-the-badge" /><br/>
-      <b>Building Projects</b><br/>
-      <sub>Software Development</sub>
-    </td>
+    <td align="center" width="200">🎓<br/><b>BIT Mesra</b><br/><sub>ECE, Batch of 2028</sub></td>
+    <td align="center" width="200">🤖<br/><b>Learning ML</b><br/><sub>Applied Machine Learning</sub></td>
+    <td align="center" width="200">🚀<br/><b>Building Projects</b><br/><sub>Software Development</sub></td>
   </tr>
 </table>
 
@@ -246,15 +182,14 @@
 
 <div align="center">
 
-<!-- Replace hrefs with your actual profile links -->
 <a href="https://linkedin.com/in/omveer-singh-shekhawat" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://leetcode.com/u/omveer_01/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
-<a href="https://github.com/omveer7850" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.geeksforgeeks.org/profile/o7083qgxu" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 </div>
@@ -281,6 +216,6 @@
 
 *Always open to connecting with fellow developers, collaborating on interesting projects, or discussing DSA and Machine Learning.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=110&section=footer" width="100%"/>
 
 </div>
