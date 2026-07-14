@@ -27,6 +27,19 @@
 
 <br/>
 
+<!-- ===================== CONNECT (TOP) ===================== -->
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/omveer-singh-shekhawat)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/omveer_01/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/o7083qgxu)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:o70836964@gmail.com)
+
+</div>
+
+<br/>
+
 <!-- ===================== OVERVIEW DASHBOARD ===================== -->
 
 <table width="100%">
@@ -135,38 +148,6 @@ I'm an ECE undergraduate at **BIT Mesra** (2028) who spends most of the free tim
 
 **🎓 BIT Mesra**
 <br/>ECE · 2028
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ===================== CONNECT ===================== -->
-
-### 🔗 Connect
-
-<table width="100%">
-<tr>
-<td align="center" width="33%">
-
-**LinkedIn**
-<br/>
-[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/omveer-singh-shekhawat)
-
-</td>
-<td align="center" width="33%">
-
-**LeetCode**
-<br/>
-[![LeetCode](https://img.shields.io/badge/Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/omveer_01/)
-
-</td>
-<td align="center" width="33%">
-
-**GeeksforGeeks**
-<br/>
-[![GFG](https://img.shields.io/badge/Profile-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/o7083qgxu)
 
 </td>
 </tr>
