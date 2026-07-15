@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=100" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:06B6D4,100:8B5CF6&height=100" width="100%"/>
 
 <br/><br/>
 
