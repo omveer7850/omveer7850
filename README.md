@@ -82,38 +82,46 @@ I'm an ECE undergraduate at **BIT Mesra** (2028) and a **full-stack developer** 
 
 <table width="100%">
 <tr>
-<td align="center" width="20%">
-<b>Languages</b><br/><br/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<td width="20%" valign="top">
+
+**Languages**
+- Java
+- C++
+- Python
+- JavaScript
+
 </td>
-<td align="center" width="20%">
-<b>Frontend</b><br/><br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/><br/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<td width="20%" valign="top">
+
+**Frontend**
+- HTML5 / CSS3
+- React
+- Vite
+
 </td>
-<td align="center" width="20%">
-<b>Backend</b><br/><br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<td width="20%" valign="top">
+
+**Backend**
+- Node.js
+- Express.js
+- Spring Boot
+
 </td>
-<td align="center" width="20%">
-<b>Database</b><br/><br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+<td width="20%" valign="top">
+
+**Database**
+- MySQL
+- MongoDB
+- Supabase
+
 </td>
-<td align="center" width="20%">
-<b>Tools & DevOps</b><br/><br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+<td width="20%" valign="top">
+
+**Tools & DevOps**
+- Git & GitHub
+- VS Code
+- Vercel
+
 </td>
 </tr>
 </table>
@@ -132,18 +140,9 @@ I'm an ECE undergraduate at **BIT Mesra** (2028) and a **full-stack developer** 
 
 A unified, data-driven dashboard for competitive programming analytics — tracks and benchmarks performance across **LeetCode, Codeforces, AtCoder, and CodeChef** in one place, with rating history graphs, a DSA sheet tracker (Grind 169, Striver A2Z, Blind 75, NeetCode 150), peer comparison, and GitHub stats, all in a dark/light dual-theme UI.
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+**Tech:** React · Vite · Node.js · Express · Supabase · CSS3 · Vercel
 
-<br/><br/>
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https://cp-profile-hub.vercel.app/)
-[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omveer7850/cp-analytics)
+**Links:** [Live Demo](https://cp-profile-hub.vercel.app/) · [Source Code](https://github.com/omveer7850/cp-analytics)
 
 </td>
 </tr>
@@ -159,15 +158,9 @@ A unified, data-driven dashboard for competitive programming analytics — track
 
 A machine learning-powered web app that predicts IPL match winners using historical match data — built with Python, trained on a classification model, and deployed as an interactive Streamlit application.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+**Tech:** Python · Pandas · scikit-learn · Streamlit
 
-<br/><br/>
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-06B6D4?style=for-the-badge&logo=streamlit&logoColor=white)](https://ipl-winner-predictor-pro-usumldp54ltjak2zsfuy8e.streamlit.app/)
-[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omveer7850/IPL-Winner-Predictor-Pro)
+**Links:** [Live Demo](https://ipl-winner-predictor-pro-usumldp54ltjak2zsfuy8e.streamlit.app/) · [Source Code](https://github.com/omveer7850/IPL-Winner-Predictor-Pro)
 
 </td>
 </tr>
