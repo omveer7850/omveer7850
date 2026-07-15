@@ -5,18 +5,31 @@
   HOW TO CUSTOMIZE:
   1. Replace "omveer7850" with your GitHub username everywhere
      (required for the stat widgets to pull your real data).
-  2. Update LeetCode / LinkedIn / GeeksforGeeks links in the
-     "Connect" card if they ever change.
-  3. Edit the skillicons.dev URL in "Tech Stack" to add/remove
-     icons — full icon list: https://skillicons.dev
+  2. Update LinkedIn / LeetCode / GeeksforGeeks / Gmail links in
+     the "Connect" row if they ever change.
+  3. Edit shields.io badge URLs in "Tech Stack" to add/remove
+     technologies — badge builder: https://shields.io
   ============================================================
 -->
 
+<!--
+  NOTE ON WIDGETS: The "GitHub Dashboard" section below intentionally
+  only includes the Streak Stats and Activity Graph widgets. The main
+  Stats card, Top Languages card, and Trophy Case widgets were removed
+  because their hosting services (github-readme-stats.vercel.app and
+  github-profile-trophy.vercel.app) were failing to load consistently
+  (confirmed broken image icon across multiple browsers on 15 Jul 2026 —
+  a known, documented reliability issue with those specific free public
+  instances, not a markdown/code problem). If you want them back later,
+  the fix is to self-host your own instance:
+    - https://github.com/anuraghazra/github-readme-stats
+    - https://github.com/ryo-ma/github-profile-trophy
+  Fork either repo, deploy free on Vercel, add a GITHUB_TOKEN in the
+  project's environment variables, then use your own *.vercel.app URL.
+-->
+
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:06B6D4,100:8B5CF6&height=100" width="100%"/>
-
-<br/><br/>
 
 # Omveer Singh
 
@@ -184,28 +197,10 @@ A machine learning-powered web app that predicts IPL match winners using histori
 <br/>
 
 <!-- ===================== GITHUB DASHBOARD ===================== -->
-<!--
-  NOTE: These widgets pull live from the public github-readme-stats.vercel.app
-  instance. That free instance is shared by millions of profiles and often
-  hits GitHub's API rate limit, which shows as "Error fetching resource" —
-  this is NOT broken markdown, it's the public API being overloaded.
-  Fixes, in order of effort:
-  1. Just reload the GitHub page after a few minutes — usually clears up.
-  2. Deploy your OWN free instance (removes the shared rate limit entirely):
-     - Fork https://github.com/anuraghazra/github-readme-stats
-     - Deploy it to Vercel (one click, free): https://vercel.com/new
-     - Add a GITHUB_TOKEN in the Vercel project's environment variables
-     - Replace "github-readme-stats.vercel.app" below with your own
-       "your-project-name.vercel.app" in every stats/top-langs URL.
--->
 
 ### 📊 GitHub Dashboard
 
 <table width="100%">
-<tr>
-<td width="50%"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=omveer7850&show_icons=true&theme=dark&hide_border=true&bg_color=0F172A&title_color=6366F1&icon_color=06B6D4&text_color=E2E8F0"/></td>
-<td width="50%"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omveer7850&layout=compact&theme=dark&hide_border=true&bg_color=0F172A&title_color=6366F1&text_color=E2E8F0"/></td>
-</tr>
 <tr>
 <td colspan="2"><img width="100%" src="https://streak-stats.demolab.com?user=omveer7850&theme=dark&hide_border=true&background=0F172A&ring=6366F1&fire=06B6D4&currStreakLabel=E2E8F0"/></td>
 </tr>
@@ -213,24 +208,6 @@ A machine learning-powered web app that predicts IPL match winners using histori
 <td colspan="2"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=omveer7850&bg_color=0F172A&color=E2E8F0&line=6366F1&point=06B6D4&hide_border=true"/></td>
 </tr>
 </table>
-
-<br/>
-
-<!--
-  NOTE: Same as GitHub Dashboard above — github-profile-trophy.vercel.app is
-  a shared public instance and can show "Error fetching resource" when
-  GitHub's API rate limit is hit. Fixes:
-  1. Reload the GitHub page after a few minutes.
-  2. Self-host: fork https://github.com/ryo-ma/github-profile-trophy,
-     deploy free on Vercel, add a GITHUB_TOKEN, then replace
-     "github-profile-trophy.vercel.app" below with your own domain.
--->
-
-### 🏆 Trophy Case
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=omveer7850&theme=darkhub&no-frame=true&row=1&column=7&margin-w=6"/>
-</div>
 
 <br/>
 
