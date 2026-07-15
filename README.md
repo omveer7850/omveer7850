@@ -216,6 +216,16 @@ A machine learning-powered web app that predicts IPL match winners using histori
 
 <br/>
 
+<!--
+  NOTE: Same as GitHub Dashboard above — github-profile-trophy.vercel.app is
+  a shared public instance and can show "Error fetching resource" when
+  GitHub's API rate limit is hit. Fixes:
+  1. Reload the GitHub page after a few minutes.
+  2. Self-host: fork https://github.com/ryo-ma/github-profile-trophy,
+     deploy free on Vercel, add a GITHUB_TOKEN, then replace
+     "github-profile-trophy.vercel.app" below with your own domain.
+-->
+
 ### 🏆 Trophy Case
 
 <div align="center">
