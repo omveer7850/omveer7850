@@ -14,13 +14,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=140&text=OMVEER%20SINGH&fontSize=38&fontColor=E2E8F0&fontAlign=50&fontAlignY=40&desc=Java%20Developer%20%C2%B7%20DSA%20Enthusiast%20%C2%B7%20ML%20Explorer&descAlign=50&descAlignY=68&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=140&text=OMVEER%20SINGH&fontSize=38&fontColor=E2E8F0&fontAlign=50&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20Java%20%26%20DSA%20%C2%B7%20JavaScript%20%26%20CSS&descAlign=50&descAlignY=68&descSize=15" width="100%"/>
 
 <br/>
 
 <img src="https://img.shields.io/badge/ECE-BIT%20Mesra-6366F1?style=flat-square&labelColor=0F172A"/>
 <img src="https://img.shields.io/badge/Batch-2028-06B6D4?style=flat-square&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Focus-Java%20%7C%20DSA%20%7C%20ML-8B5CF6?style=flat-square&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Full--Stack-JavaScript%20%7C%20React%20%7C%20Node-8B5CF6?style=flat-square&labelColor=0F172A"/>
 <img src="https://img.shields.io/badge/LeetCode-800%2B%20Solved-F59E0B?style=flat-square&labelColor=0F172A"/>
 
 </div>
@@ -48,13 +48,13 @@
 
 ### 🧭 Overview
 
-I'm an ECE undergraduate at **BIT Mesra** (2028) who spends most of the free time inside a code editor — building things in **Java** and grinding through **Data Structures & Algorithms**. Currently branching out into **Machine Learning** to pair algorithmic thinking with applied software development.
+I'm an ECE undergraduate at **BIT Mesra** (2028) and a **full-stack developer** who builds complete, production-deployed web applications — from React/Vite frontends to Node.js/Express backends. Alongside that, I have a strong **Java + DSA** foundation with 800+ problems solved, which shapes how I design and optimize the systems I build.
 
-**Currently exploring**
-`Advanced DSA` · `Machine Learning fundamentals` · `Software Engineering practices`
+**Currently building with**
+`React` · `Node.js / Express` · `JavaScript` · `CSS` · `Supabase`
 
 **Open to collaborate on**
-`DSA-based projects` · `ML mini-projects` · `Java / software builds`
+`Full-stack web projects` · `DSA-based tools` · `Java / software builds`
 
 </td>
 <td width="45%" valign="top">
@@ -65,9 +65,9 @@ I'm an ECE undergraduate at **BIT Mesra** (2028) who spends most of the free tim
 |---|---|
 | 🎓 **Education** | B.Tech ECE, BIT Mesra |
 | 📅 **Graduating** | 2028 |
-| 💻 **Primary Stack** | Java |
+| 💻 **Stack** | JavaScript, React, Node.js, Java |
 | 🧩 **DSA** | 800+ problems solved |
-| 🤖 **Currently Learning** | Machine Learning |
+| 🚀 **Shipped** | Full-stack app live on Vercel |
 | 📍 **Status** | Open to opportunities |
 
 </td>
@@ -86,8 +86,38 @@ I'm an ECE undergraduate at **BIT Mesra** (2028) who spends most of the free tim
 <td align="center" width="16%"><b>Frontend</b><br/><br/><img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/></td>
 <td align="center" width="16%"><b>Backend</b><br/><br/><img src="https://skillicons.dev/icons?i=spring,nodejs,express"/></td>
 <td align="center" width="16%"><b>Database</b><br/><br/><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/></td>
-<td align="center" width="18%"><b>AI / ML</b><br/><br/><img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn"/></td>
-<td align="center" width="18%"><b>Tools & DevOps</b><br/><br/><img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker"/></td>
+<td align="center" width="16%"><b>Tools & DevOps</b><br/><br/><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker"/></td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ===================== FEATURED PROJECT ===================== -->
+
+### 🚀 Featured Project
+
+<table width="100%">
+<tr>
+<td width="100%">
+
+<h3 align="left">CP Tracker</h3>
+
+A unified, data-driven dashboard for competitive programming analytics — tracks and benchmarks performance across **LeetCode, Codeforces, AtCoder, and CodeChef** in one place, with rating history graphs, a DSA sheet tracker (Grind 169, Striver A2Z, Blind 75, NeetCode 150), peer comparison, and GitHub stats, all in a dark/light dual-theme UI.
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+
+<br/><br/>
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https://cp-profile-hub.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omveer7850/cp-analytics)
+
+</td>
 </tr>
 </table>
 
@@ -140,8 +170,8 @@ I'm an ECE undergraduate at **BIT Mesra** (2028) who spends most of the free tim
 </td>
 <td align="center" width="25%">
 
-**☕ Java**
-<br/>Developer
+**⚡ Full-Stack**
+<br/>Project Shipped
 
 </td>
 <td align="center" width="25%">
