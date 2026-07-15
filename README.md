@@ -42,7 +42,7 @@
 
 <!-- DYNAMIC TYPING SVG SUB-HEADER -->
 <a href="https://github.com/omveer7850">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Building+highly+scalable+web+applications;800%2B+DSA+problems+solved+on+LeetCode;React+%C2%B7+Node.js+%C2%B7+Express+%C2%B7+Supabase;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Building+highly+scalable+web+applications;React+%C2%B7+Node.js+%C2%B7+Express+%C2%B7+Supabase;Always+learning%2C+always+building" alt="Typing SVG" />
 </a>
 
 <br/>
