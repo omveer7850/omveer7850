@@ -14,7 +14,15 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=140&text=OMVEER%20SINGH&fontSize=38&fontColor=E2E8F0&fontAlign=50&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20Java%20%26%20DSA%20%C2%B7%20JavaScript%20%26%20CSS&descAlign=50&descAlignY=68&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=100" width="100%"/>
+
+<br/><br/>
+
+# Omveer Singh
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%C2%B7+Java+%26+DSA;JavaScript+%C2%B7+React+%C2%B7+Node.js+%C2%B7+CSS" alt="Typing SVG" />
+</a>
 
 <br/>
 
@@ -82,46 +90,38 @@ I'm an ECE undergraduate at **BIT Mesra** (2028) and a **full-stack developer** 
 
 <table width="100%">
 <tr>
-<td width="20%" valign="top">
-
-**Languages**
-- Java
-- C++
-- Python
-- JavaScript
-
+<td align="center" width="20%">
+<b>Languages</b><br/><br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </td>
-<td width="20%" valign="top">
-
-**Frontend**
-- HTML5 / CSS3
-- React
-- Vite
-
+<td align="center" width="20%">
+<b>Frontend</b><br/><br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/><br/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
 </td>
-<td width="20%" valign="top">
-
-**Backend**
-- Node.js
-- Express.js
-- Spring Boot
-
+<td align="center" width="20%">
+<b>Backend</b><br/><br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 </td>
-<td width="20%" valign="top">
-
-**Database**
-- MySQL
-- MongoDB
-- Supabase
-
+<td align="center" width="20%">
+<b>Database</b><br/><br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
 </td>
-<td width="20%" valign="top">
-
-**Tools & DevOps**
-- Git & GitHub
-- VS Code
-- Vercel
-
+<td align="center" width="20%">
+<b>Tools & DevOps</b><br/><br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 </td>
 </tr>
 </table>
@@ -140,9 +140,18 @@ I'm an ECE undergraduate at **BIT Mesra** (2028) and a **full-stack developer** 
 
 A unified, data-driven dashboard for competitive programming analytics — tracks and benchmarks performance across **LeetCode, Codeforces, AtCoder, and CodeChef** in one place, with rating history graphs, a DSA sheet tracker (Grind 169, Striver A2Z, Blind 75, NeetCode 150), peer comparison, and GitHub stats, all in a dark/light dual-theme UI.
 
-**Tech:** React · Vite · Node.js · Express · Supabase · CSS3 · Vercel
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 
-**Links:** [Live Demo](https://cp-profile-hub.vercel.app/) · [Source Code](https://github.com/omveer7850/cp-analytics)
+<br/><br/>
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https://cp-profile-hub.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omveer7850/cp-analytics)
 
 </td>
 </tr>
@@ -158,9 +167,15 @@ A unified, data-driven dashboard for competitive programming analytics — track
 
 A machine learning-powered web app that predicts IPL match winners using historical match data — built with Python, trained on a classification model, and deployed as an interactive Streamlit application.
 
-**Tech:** Python · Pandas · scikit-learn · Streamlit
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 
-**Links:** [Live Demo](https://ipl-winner-predictor-pro-usumldp54ltjak2zsfuy8e.streamlit.app/) · [Source Code](https://github.com/omveer7850/IPL-Winner-Predictor-Pro)
+<br/><br/>
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-06B6D4?style=for-the-badge&logo=streamlit&logoColor=white)](https://ipl-winner-predictor-pro-usumldp54ltjak2zsfuy8e.streamlit.app/)
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omveer7850/IPL-Winner-Predictor-Pro)
 
 </td>
 </tr>
@@ -169,6 +184,20 @@ A machine learning-powered web app that predicts IPL match winners using histori
 <br/>
 
 <!-- ===================== GITHUB DASHBOARD ===================== -->
+<!--
+  NOTE: These widgets pull live from the public github-readme-stats.vercel.app
+  instance. That free instance is shared by millions of profiles and often
+  hits GitHub's API rate limit, which shows as "Error fetching resource" —
+  this is NOT broken markdown, it's the public API being overloaded.
+  Fixes, in order of effort:
+  1. Just reload the GitHub page after a few minutes — usually clears up.
+  2. Deploy your OWN free instance (removes the shared rate limit entirely):
+     - Fork https://github.com/anuraghazra/github-readme-stats
+     - Deploy it to Vercel (one click, free): https://vercel.com/new
+     - Add a GITHUB_TOKEN in the Vercel project's environment variables
+     - Replace "github-readme-stats.vercel.app" below with your own
+       "your-project-name.vercel.app" in every stats/top-langs URL.
+-->
 
 ### 📊 GitHub Dashboard
 
